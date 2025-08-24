@@ -1,4 +1,4 @@
-module test
+module github.com/Sospeter-M-Kinyanjui/test
 
 go 1.24.3
 
